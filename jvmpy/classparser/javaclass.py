@@ -1,0 +1,2 @@
+class JavaClass:
+    pass
