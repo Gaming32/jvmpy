@@ -1,2 +1,0 @@
-class ClassFormatException(ValueError):
-    pass
